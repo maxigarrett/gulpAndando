@@ -1,0 +1,13 @@
+$color:#ccc;
+
+body
+{
+    background-color: $color;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+p
+{
+    display: flex;
+}
